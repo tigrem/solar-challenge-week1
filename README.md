@@ -1,2 +1,2 @@
-# 10Academy_Week0
+# solar-challenge-week1
 AI project
