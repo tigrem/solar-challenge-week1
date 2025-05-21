@@ -1,3 +1,8 @@
 requests
 numpy
 pandas
+stramlite
+jupyter
+scipy
+matlab
+
