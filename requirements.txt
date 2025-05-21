@@ -1,3 +1,7 @@
-requests
 numpy
 pandas
+streamlit
+jupyter
+scipy
+matplotlib
+
