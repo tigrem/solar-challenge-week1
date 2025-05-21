@@ -1,8 +1,7 @@
-requests
 numpy
 pandas
-stramlite
+streamlit
 jupyter
 scipy
-matlab
+matplotlib
 
